@@ -1,0 +1,16 @@
+   at RestSharp.ResponseThrowExtension.ThrowIfError[T](RestResponse`1 response)
+   at RestSharp.RestClientExtensions.<GetAsync>d__38`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.<>c__DisplayClass1_0`1.<<RunSync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.<<Run>g__PostCallback|7_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at RestSharp.AsyncHelpers.CustomSynchronizationContext.Run()
+   at RestSharp.AsyncHelpers.RunSync(Func`1 task)
+   at RestSharp.AsyncHelpers.RunSync[T](Func`1 task)
+   at RestSharp.RestClientExtensions.Get[T](IRestClient client, RestRequest request)
+   at Trabajo_Final_Integrador_I.FrmPrincipal.btnProducto1_Click(Object sender, EventArgs e) in D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\FrmPrincipal.cs:line 62

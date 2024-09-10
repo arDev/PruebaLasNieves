@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0607F83-C2BA-4815-B0A7-B9091209E0FE}|ProyectoDesdeCero\\ProyectoDesdeCero.csproj|d:\\reposlasnieves\\trabajo final integrador i\\proyectodesdecero\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0607F83-C2BA-4815-B0A7-B9091209E0FE}|ProyectoDesdeCero\\ProyectoDesdeCero.csproj|solutionrelative:proyectodesdecero\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0607F83-C2BA-4815-B0A7-B9091209E0FE}|ProyectoDesdeCero\\ProyectoDesdeCero.csproj|d:\\reposlasnieves\\trabajo final integrador i\\proyectodesdecero\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0607F83-C2BA-4815-B0A7-B9091209E0FE}|ProyectoDesdeCero\\ProyectoDesdeCero.csproj|solutionrelative:proyectodesdecero\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0607F83-C2BA-4815-B0A7-B9091209E0FE}|ProyectoDesdeCero\\ProyectoDesdeCero.csproj|d:\\reposlasnieves\\trabajo final integrador i\\proyectodesdecero\\frmeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0607F83-C2BA-4815-B0A7-B9091209E0FE}|ProyectoDesdeCero\\ProyectoDesdeCero.csproj|solutionrelative:proyectodesdecero\\frmeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0607F83-C2BA-4815-B0A7-B9091209E0FE}|ProyectoDesdeCero\\ProyectoDesdeCero.csproj|d:\\reposlasnieves\\trabajo final integrador i\\proyectodesdecero\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0607F83-C2BA-4815-B0A7-B9091209E0FE}|ProyectoDesdeCero\\ProyectoDesdeCero.csproj|solutionrelative:proyectodesdecero\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0607F83-C2BA-4815-B0A7-B9091209E0FE}|ProyectoDesdeCero\\ProyectoDesdeCero.csproj|d:\\reposlasnieves\\trabajo final integrador i\\proyectodesdecero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0607F83-C2BA-4815-B0A7-B9091209E0FE}|ProyectoDesdeCero\\ProyectoDesdeCero.csproj|solutionrelative:proyectodesdecero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|d:\\reposlasnieves\\trabajo final integrador i\\trabajo final integrador i\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|solutionrelative:trabajo final integrador i\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|D:\\ReposLasNieves\\Trabajo Final Integrador I\\trabajo final integrador i\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|solutionrelative:trabajo final integrador i\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|D:\\ReposLasNieves\\Trabajo Final Integrador I\\trabajo final integrador i\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|solutionrelative:trabajo final integrador i\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|D:\\ReposLasNieves\\Trabajo Final Integrador I\\trabajo final integrador i\\frmeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|solutionrelative:trabajo final integrador i\\frmeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|D:\\ReposLasNieves\\Trabajo Final Integrador I\\trabajo final integrador i\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|solutionrelative:trabajo final integrador i\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|D:\\ReposLasNieves\\Trabajo Final Integrador I\\trabajo final integrador i\\frmprincipal.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{8981B4A4-1041-44BC-AF27-0ACBCA24E237}|Trabajo Final Integrador I\\Trabajo Final Integrador I.csproj|solutionrelative:trabajo final integrador i\\frmprincipal.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmEditar.cs [Design]",
+              "DocumentMoniker": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\ProyectoDesdeCero\\FrmEditar.cs",
+              "RelativeDocumentMoniker": "ProyectoDesdeCero\\FrmEditar.cs",
+              "ToolTip": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\ProyectoDesdeCero\\FrmEditar.cs [Design]",
+              "RelativeToolTip": "ProyectoDesdeCero\\FrmEditar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:08:57.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\ProyectoDesdeCero\\FrmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoDesdeCero\\FrmPrincipal.Designer.cs",
+              "ToolTip": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\ProyectoDesdeCero\\FrmPrincipal.Designer.cs",
+              "RelativeToolTip": "ProyectoDesdeCero\\FrmPrincipal.Designer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:45:31.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\ProyectoDesdeCero\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "ProyectoDesdeCero\\FrmPrincipal.cs",
+              "ToolTip": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\ProyectoDesdeCero\\FrmPrincipal.cs*",
+              "RelativeToolTip": "ProyectoDesdeCero\\FrmPrincipal.cs*",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAMwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:41:42.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\ProyectoDesdeCero\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoDesdeCero\\Program.cs",
+              "ToolTip": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\ProyectoDesdeCero\\Program.cs",
+              "RelativeToolTip": "ProyectoDesdeCero\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:40:34.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs [Design]",
+              "DocumentMoniker": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\ProyectoDesdeCero\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "ProyectoDesdeCero\\FrmPrincipal.cs",
+              "ToolTip": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\ProyectoDesdeCero\\FrmPrincipal.cs [Design]*",
+              "RelativeToolTip": "ProyectoDesdeCero\\FrmPrincipal.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:38:43.383Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmEditar.cs [Design]",
+              "DocumentMoniker": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\FrmEditar.cs",
+              "RelativeDocumentMoniker": "Trabajo Final Integrador I\\FrmEditar.cs",
+              "ToolTip": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\FrmEditar.cs [Design]",
+              "RelativeToolTip": "Trabajo Final Integrador I\\FrmEditar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:51:59.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\Producto.cs",
+              "RelativeDocumentMoniker": "Trabajo Final Integrador I\\Producto.cs",
+              "ToolTip": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\Producto.cs",
+              "RelativeToolTip": "Trabajo Final Integrador I\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:42:22.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmPrincipal.resx",
+              "DocumentMoniker": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\FrmPrincipal.resx",
+              "RelativeDocumentMoniker": "Trabajo Final Integrador I\\FrmPrincipal.resx",
+              "ToolTip": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\FrmPrincipal.resx",
+              "RelativeToolTip": "Trabajo Final Integrador I\\FrmPrincipal.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-12T23:55:20.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\FrmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Trabajo Final Integrador I\\FrmPrincipal.Designer.cs",
+              "ToolTip": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\FrmPrincipal.Designer.cs",
+              "RelativeToolTip": "Trabajo Final Integrador I\\FrmPrincipal.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwCIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:40:09.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Trabajo Final Integrador I\\FrmPrincipal.cs",
+              "ToolTip": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\FrmPrincipal.cs",
+              "RelativeToolTip": "Trabajo Final Integrador I\\FrmPrincipal.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAIA9wDIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:38:21.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmPrincipal.cs [Design]",
+              "DocumentMoniker": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Trabajo Final Integrador I\\FrmPrincipal.cs",
+              "ToolTip": "D:\\ReposLasNieves\\Trabajo Final Integrador I\\Trabajo Final Integrador I\\FrmPrincipal.cs [Design]",
+              "RelativeToolTip": "Trabajo Final Integrador I\\FrmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:36:47.815Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

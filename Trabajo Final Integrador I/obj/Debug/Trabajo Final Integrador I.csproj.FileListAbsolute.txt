@@ -1,0 +1,32 @@
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\Trabajo Final Integrador I.exe.config
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\Trabajo Final Integrador I.exe
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\Trabajo Final Integrador I.pdb
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\obj\Debug\Trabajo Final Integrador I.csproj.AssemblyReference.cache
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\obj\Debug\Trabajo_Final_Integrador_I.FrmPrincipal.resources
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\obj\Debug\Trabajo_Final_Integrador_I.Properties.Resources.resources
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\obj\Debug\Trabajo Final Integrador I.csproj.GenerateResource.cache
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\obj\Debug\Trabajo Final Integrador I.csproj.CoreCompileInputs.cache
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\obj\Debug\Trabajo Final Integrador I.exe
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\obj\Debug\Trabajo Final Integrador I.pdb
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\RestSharp.dll
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Buffers.dll
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Memory.dll
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Numerics.Vectors.dll
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Text.Encodings.Web.dll
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Text.Json.dll
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.ValueTuple.dll
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\RestSharp.xml
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Buffers.xml
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Memory.xml
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Numerics.Vectors.xml
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Text.Encodings.Web.xml
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Text.Json.xml
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\bin\Debug\System.ValueTuple.xml
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\obj\Debug\Trabajo .3EF7D3D4.Up2Date
+D:\ReposLasNieves\Trabajo Final Integrador I\Trabajo Final Integrador I\obj\Debug\Trabajo_Final_Integrador_I.FrmEditar.resources
